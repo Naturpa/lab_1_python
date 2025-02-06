@@ -1,12 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4acc9fea-38d6-4f6d-a4ec-8630ad8471e6" name="Changes" comment="" />
+    <list default="true" id="4acc9fea-38d6-4f6d-a4ec-8630ad8471e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/lab_1_python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_9.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Naturpa/lab_1_python.git",
+    "accountId": "282d0a82-e621-49f6-bda2-21b468b6a9d1"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -18,7 +59,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python.Number_1.executor": "Run",
+    "Python.Number_10.executor": "Run",
+    "Python.Number_11.executor": "Run",
+    "Python.Number_12.executor": "Run",
+    "Python.Number_13.executor": "Run",
+    "Python.Number_2.executor": "Run",
+    "Python.Number_3.executor": "Run",
+    "Python.Number_5.executor": "Run",
+    "Python.Number_7.executor": "Run",
+    "Python.Number_8.executor": "Run",
+    "Python.Number_9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="SharedIndexes">
